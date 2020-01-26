@@ -6,7 +6,6 @@ import PackageDescription
 let package = Package(
     name: "FASwiftUI",
     platforms: [
-        .iOS(.v13)
         .watchOS(.v6)
     ],
     products: [
